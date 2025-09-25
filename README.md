@@ -3,8 +3,8 @@
 🎓 Estudiante de Ingeniería • 💻 Apasionado por la programación
 
 🌎 Inglés — fluido  
-📚 Gótico, Lovecraft & Poe  
-🎨 Óleo — pinturas bizarras  
+📚 Gótica, Lovecraft & Poe  
+🎨 Óleo  
 🛡️ Enfocado en ciberseguridad & bases de datos
 
 ## 🙋‍♂️ Acerca de mí
