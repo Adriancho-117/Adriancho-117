@@ -9,17 +9,13 @@
 
 ## 🙋‍♂️ Acerca de mí
 
-Soy Adrian, estudiante de ingeniería y dev en formación. Me encanta escribir código limpio, resolver problemas y crear cosas útiles. Me considero directo y eficaz.
+ Estudiante de ingeniería y dev en formación. Me encanta escribir código limpio, resolver problemas y crear cosas útiles. Me considero directo y eficaz.
 
 Actualmente me interesa crecer en el área de **ciberseguridad** y **bases de datos**, buscando especialización en esos campos. 🚀
 
-## 🛠️ Skills
+## 🛠️ Tecnologias conocidas
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,git)](https://skillicons.dev)
-
-## 📖 Actualmente aprendiendo
-
-[![Aprendiendo](https://skillicons.dev/icons?i=js,php,mysql)](https://skillicons.dev)
+[![Aprendiendo](https://skillicons.dev/icons?i=cpp,java,javascript,kotlin,python,php,html,css,mysql,sqlite,git,github,vscode,ai,figma,blender)](https://skillicons.dev)
 
 ## 🎧 Música & Estética
 
