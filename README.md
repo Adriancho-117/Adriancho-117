@@ -1,67 +1,42 @@
+# 👋 Hola — soy Adrian
 
-  
-  <h1>👋 Hola — soy <strong>Adrian</strong></h1>
-  <p><em>🎓 Estudiante de Ingeniería • 💻 Apasionado por la programación</em></p>
+🎓 Estudiante de Ingeniería • 💻 Apasionado por la programación
 
-  <div class="tags">
-    <span class="tag">🌎 Inglés — fluido</span>
-    <span class="tag">📚 Gótic, Lovecraft & Poe</span>
-    <span class="tag">🎨 Óleo — pinturas bizarras</span>
-    <span class="tag">🛡️ Enfocado en ciberseguridad & bases de datos</span>
-  </div>
+🌎 Inglés — fluido  
+📚 Gótico, Lovecraft & Poe  
+🎨 Óleo — pinturas bizarras  
+🛡️ Enfocado en ciberseguridad & bases de datos
 
-  <div class="section">
-    <h2>🙋‍♂️ Acerca de mí</h2>
-    <p>Soy Adrian, estudiante de ingeniería y dev en formación. Me encanta escribir código limpio, resolver problemas y crear cosas útiles. Me considero directo y eficaz.</p>
-    <p>Actualmente me interesa crecer en el área de <strong>ciberseguridad</strong> y <strong>bases de datos</strong>, buscando especialización en esos campos. 🚀</p>
-  </div>
+## 🙋‍♂️ Acerca de mí
 
-  <div class="section">
-    <h2>🛠️ Skills</h2>
-    <div class="skills">
-      <div class="skill">🐍 Python</div>
-    </div>
-  </div>
+Soy Adrian, estudiante de ingeniería y dev en formación. Me encanta escribir código limpio, resolver problemas y crear cosas útiles. Me considero directo y eficaz.
 
-  <div class="section">
-    <h2>📖 Actualmente aprendiendo</h2>
-    <div class="skills">
-      <div class="skill">🌐 HTML</div>
-      <div class="skill">🎨 CSS</div>
-      <div class="skill">⚡ JavaScript</div>
-      <div class="skill">🐘 PHP</div>
-      <div class="skill">🗄️ MySQL</div>
-    </div>
-  </div>
+Actualmente me interesa crecer en el área de **ciberseguridad** y **bases de datos**, buscando especialización en esos campos. 🚀
 
-  <div class="section">
-    <h2>🎧 Música & Estética</h2>
-    <p>Amo todos los géneros, pero tengo una debilidad por:</p>
-    <ul>
-      <li>🌀 Gorillaz</li>
-      <li>🌕 Arctic Monkeys</li>
-      <li>☣︎ Linkin Park</li>
-      <li>⛱ The Neighbourhood</li>
-    </ul>
+## 🛠️ Skills
 
-  </div
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,git)](https://skillicons.dev)
 
-  <div class="section">
-    <h2>📬 Contacto</h2>
-    <p>Enlaces (reemplaza por los tuyos):</p>
-    <ul>
-      <li><a href="adrianchocarrillo777@gmail.com">✉️ Correo — adrianchocarrillo777@gmail.com</a></li>
-    </ul>
-  </div>
+## 📖 Actualmente aprendiendo
 
-  <div class="section">
-    <h2>⚡ Datos rápidos</h2>
-    <ul>
-      <li>📍 Ubicación: Colombia</li>
-      <li>🗣️ Idiomas: Español, Inglés</li>
-      <li>🔐 Intereses: Ciberseguridad, bases de datos</li>
-    </ul>
-  </div>
+[![Aprendiendo](https://skillicons.dev/icons?i=js,php,mysql)](https://skillicons.dev)
 
-</body>
-</html>
+## 🎧 Música & Estética
+
+Amo todos los géneros, pero tengo una debilidad por:  
+- Gorillaz  
+- Arctic Monkeys  
+- Linkin Park  
+- The Neighbourhood  
+
+También me inspira la literatura gótica y el arte oscuro.
+
+## 📬 Contacto
+
+✉️ Correo — adrianchocarrillo777@gmail.com
+
+## ⚡ Datos rápidos
+
+📍 Ubicación: Colombia  
+🗣️ Idiomas: Español, Inglés  
+🔐 Intereses: Ciberseguridad, bases de datos
