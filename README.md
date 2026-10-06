@@ -2,9 +2,6 @@
 
  Estudiante de Ingeniería •  Apasionado por la programación
 
-Inglés — fluido    
- Enfocado en ciberseguridad & bases de datos
-
 ##  Acerca de mí
 
  Estudiante de ingeniería y dev en formación. Me encanta escribir código limpio, resolver problemas y crear cosas útiles. Me considero directo y eficaz.
